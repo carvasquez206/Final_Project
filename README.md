@@ -24,5 +24,5 @@ The following topics will be covered in this unit:
 -
 
 ## Collaborators
-- Carlos Vasquez
+- [Carlos Vasquez]()
 - Raymond Estrada
