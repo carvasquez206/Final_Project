@@ -25,4 +25,4 @@ The following topics will be covered in this unit:
 
 ## Collaborators
 - [Carlos Vasquez](https://github.com/carvasquez206)
-- Raymond Estrada
+- [Raymond Estrada](https://github.com/raymondjestrada)
