@@ -14,6 +14,13 @@ The following topics will be covered in this unit:
 
 * Collaborative development
 
+## Installations
+### Client
+- `npx create-react-app ./`
+- 
+### Server
+- `npm install body-parser express mongoose nodemon`
+
 ### Screenshots
 
 
