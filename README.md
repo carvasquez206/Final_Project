@@ -1,4 +1,4 @@
-# E-Commerce-Project
+# Final_Project
 
 Working as a group to build a performant and scalable MERN stack single-page application that fulfills a real-world need, with a focus on data and user demand.
 
