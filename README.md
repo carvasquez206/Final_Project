@@ -23,6 +23,9 @@ The following topics will be covered in this unit:
 - `npm install body-parser express mongoose nodemon`: to install dependencies (body-parser, express, mongoose, nodemon, and cors)
 - `nodemon index.js`: added this to script in package.json
 
+### MongoDB Atlas
+= Created an account to utilize `Clusters`
+
 ## Git Repository
 - 
 
