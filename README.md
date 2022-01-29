@@ -40,11 +40,18 @@ Run:
 ### MongoDB Atlas
 = Created an account to utilize `Clusters`
 
+### Screenshots
+![mernmemoriesproject1 netlify app_posts](https://user-images.githubusercontent.com/63617482/151661969-b4b261d8-fced-4948-83e3-3b07ba50aa5e.png)
+
+<br> 
+<br>
+
+![mernmemoriesproject1 netlify app_posts_61f5318d917e170016316a26](https://user-images.githubusercontent.com/63617482/151661883-ebb62d7e-0121-46c3-8873-af6b65ed2d45.png)
+
+<br>
+
 ## Git Repository
 - https://github.com/carvasquez206/Final_Project
-
-### Screenshots
-- 
 
 ## Heroku
 - https://finalprojecto3.herokuapp.com/
