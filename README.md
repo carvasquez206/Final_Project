@@ -17,7 +17,8 @@ The following topics will be covered in this unit:
 ## Installations
 ### Client
 - `npx create-react-app ./`
-- 
+
+- `npm install axios moment react-file-base64 redux redux-thunk`: to install dependencies (axios, momentJS, react-file-base64(image resizing), redux and redux-thunk)
 ### Server
 - `npm init -y`: to start package.json
 - `npm install body-parser express mongoose nodemon`: to install dependencies (body-parser, express, mongoose, nodemon, and cors)
@@ -27,6 +28,7 @@ The following topics will be covered in this unit:
 - 
 
 ### Screenshots
+- 
 
 ## Heroku
 -
