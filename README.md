@@ -18,6 +18,14 @@ The following topics will be covered in this unit:
 ### Client
 - `npx create-react-app ./`
 - `npm install axios moment react-file-base64 redux redux-thunk`: to install dependencies (axios, momentJS, react-file-base64(image resizing), redux and redux-thunk)
+- `npm install @material-ui/core`: UI kit 
+- `npm install --save redux react-redux`: fixed my problem with installing `react-redux`
+- `npm install @material-ui/icons`: to fix issue with materials
+- `npm install @material-ui/lab`
+- `npm i --save material-ui-chip-input@next`
+- `npm install react-google-login`
+- ``
+
 ### Server
 - `npm init -y`: to start package.json
 - `npm install body-parser express mongoose nodemon`: to install dependencies (body-parser, express, mongoose, nodemon, and cors)
