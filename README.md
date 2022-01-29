@@ -19,7 +19,9 @@ The following topics will be covered in this unit:
 - `npx create-react-app ./`
 - 
 ### Server
-- `npm install body-parser express mongoose nodemon`
+- `npm init -y`: to start package.json
+- `npm install body-parser express mongoose nodemon`: to install dependencies (body-parser, express, mongoose, nodemon, and cors)
+- `nodemon index.js`: added this to script in package.json
 
 ## Git Repository
 - 
