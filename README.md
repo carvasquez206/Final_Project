@@ -21,11 +21,10 @@ The following topics will be covered in this unit:
 ### Server
 - `npm install body-parser express mongoose nodemon`
 
-### Screenshots
-
-
 ## Git Repository
 - 
+
+### Screenshots
 
 ## Heroku
 -
