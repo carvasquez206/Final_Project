@@ -31,6 +31,12 @@ The following topics will be covered in this unit:
 - `npm install body-parser express mongoose nodemon`: to install dependencies (body-parser, express, mongoose, nodemon, and cors)
 - `nodemon index.js`: added this to script in package.json
 
+## To Run APP
+open up split terminal and `cd` into both of the folders (client and server)
+Run: 
+- `npm i` and `npm start` in the client folder
+- `npm i` and `npm start` in the server folder
+
 ### MongoDB Atlas
 = Created an account to utilize `Clusters`
 
