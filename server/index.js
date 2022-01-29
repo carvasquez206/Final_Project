@@ -9,4 +9,4 @@ app.use(bodyParser.json({ limit: "30mb", extended: true }));
 app.use(bodyParser.urlencoded({ limit: "30mb", extended: true }));
 app.use(cors());
 
-// https://www.monogdb.com/cloud/atlas they will host our database on their cloud
+// https://www.mongodb.com/atlas/database they will host our database on their cloud
