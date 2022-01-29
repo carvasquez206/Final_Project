@@ -47,7 +47,10 @@ Run:
 - 
 
 ## Heroku
--
+- https://finalprojecto3.herokuapp.com/
+
+## Netlify
+- https://mernmemoriesproject1.netlify.app/posts/61f5318d917e170016316a26
 
 ## Collaborators
 - [Carlos Vasquez](https://github.com/carvasquez206)

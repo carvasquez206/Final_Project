@@ -15,6 +15,10 @@ app.use(cors());
 
 app.use('/posts', postRoutes);
 app.use("/user", userRouter);
+//TO VERIFY HEROKU IS RUNNNING
+app.get('/', (req, res)=> {
+  res.send('APP IS RUNNING.');
+});
 
 const CONNECTION_URL = 'mongodb+srv://js_mastery:M6WfDnJEoj9HkV2d@practice.jto9p.mongodb.net/memories_app?retryWrites=true&w=majority';
 const PORT = process.env.PORT|| 5000;
